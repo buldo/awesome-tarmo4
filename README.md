@@ -41,6 +41,7 @@
 * [LED Shock Mounts](https://www.thingiverse.com/thing:4518041)
 * [Longer wheel adapter](https://www.thingiverse.com/thing:4538811)
 * [HSP 02024 Diff MOD](https://www.reddit.com/r/EngineeringNS/comments/hy89r4/hsp_02024_diff_mod/)
+* [Better HSP mod](https://www.thingiverse.com/thing:4840527)
 * [Rear Shock Mount for 60mm Shocks](https://www.thingiverse.com/thing:4483349)
 * [Front Shock Mount for 60mm Shocks](https://www.thingiverse.com/thing:4483339)
 * [100mm Shock Mount MOD](https://www.thingiverse.com/thing:4561328)
