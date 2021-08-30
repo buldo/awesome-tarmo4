@@ -66,8 +66,11 @@
 * [Tarmo4 Steering Linkage](https://www.thingiverse.com/thing:4820784) - replaces the m3 rod and rod ends
 * [Steering uniball M3+M4](https://grabcad.com/library/steering-uniball-m3-m4-suitable-for-tarmo4-1) - you still need a rod  
 
+
 * [TPU Shocks](https://cad.onshape.com/documents/f930945ce5c4b57ebf1dfbc4/w/5352ffa0514812d148ed8853/e/38295ad25ea7549abc3629cb)  
-* [Rubber Band Shocks](https://www.thingiverse.com/thing:4614088) - [How to and description](https://www.reddit.com/r/EngineeringNS/comments/j4y7pa/rubber_band_shocks_for_tarmo4/)  
+* [Rubber Band Shocks](https://www.thingiverse.com/thing:4614088) - [How to and description](https://www.reddit.com/r/EngineeringNS/comments/j4y7pa/rubber_band_shocks_for_tarmo4/) 
+
+
 * [Motor adapter](https://www.thingiverse.com/thing:4379574)  
 * [SunnySky X2820 Motor Adaptor](https://www.thingiverse.com/thing:4483373)
 * [Open diff spider gears](https://www.youmagine.com/designs/tarmo4-open-diff-spider-gears-with-axle-options) or [on thingerverse](https://www.thingiverse.com/thing:4422947)
