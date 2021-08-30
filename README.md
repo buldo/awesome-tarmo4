@@ -63,7 +63,7 @@
 
 ## Not printed part replacements
 
-* [Tarmo4 Steering Linkage](https://www.thingiverse.com/thing:4820784) - replaces the m3 rod and rod ends  
+* [Tarmo4 Steering Linkage](https://www.thingiverse.com/thing:4820784) - replaces the m3 rod and rod ends
 * [Steering uniball M3+M4](https://grabcad.com/library/steering-uniball-m3-m4-suitable-for-tarmo4-1) - you still need a rod  
 
 * [TPU Shocks](https://cad.onshape.com/documents/f930945ce5c4b57ebf1dfbc4/w/5352ffa0514812d148ed8853/e/38295ad25ea7549abc3629cb)  
