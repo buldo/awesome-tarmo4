@@ -79,6 +79,7 @@ Table of Contents
   * [Nylock mod](https://www.thingiverse.com/thing:4576832)
 
 # Body
+* [Roll cage](https://cults3d.com/en/3d-model/gadget/roll-cage-for-tarmo4) - [Reddit post](https://www.reddit.com/r/EngineeringNS/comments/w2u7qm/roll_cage_for_tarmo4_is_ready_available_for_free/)
 * [Tarmo4 rear wing, body cover and body/wing holder](https://www.thingiverse.com/thing:4413934)  
 * [Tarmo 4 Wing (split) and body holder](https://www.thingiverse.com/thing:4514831) - like previous one, but easy to print  
 * [Skull](https://www.youmagine.com/designs/tarmo4-skull)
